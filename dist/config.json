@@ -1,6 +1,6 @@
 {
-  "siteName": "FlowCraft",
-  "currency": "$",
+  "siteName": "Textura",
+  "currency": "UZS",
   "theme": {
     "primaryColor": "#0f0f0f",
     "backgroundColor": "#1a1a1a",
@@ -58,9 +58,9 @@
       "id": "1",
       "name": "Oceanic Sea Salt Spray",
       "type": "sea salt spray",
-      "price": 24.99,
+      "price": 145000,
       "description": "Adds texture and volume for a relaxed, beachy look with a matte finish. Premium hold without the crunch.",
-      "imageUrl": "/images/spray.png",
+      "imageUrl": "/images/based.png",
       "stock": 50
     },
     {
