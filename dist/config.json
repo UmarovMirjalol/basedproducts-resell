@@ -1,0 +1,94 @@
+{
+  "siteName": "FlowCraft",
+  "currency": "$",
+  "theme": {
+    "primaryColor": "#0f0f0f",
+    "backgroundColor": "#1a1a1a",
+    "accentColor": "#e5d5c5"
+  },
+  "translations": {
+    "en": {
+      "catalog": "Our Products",
+      "addToCart": "Add to Cart",
+      "cart": "Cart",
+      "checkout": "Checkout",
+      "total": "Total",
+      "emptyCart": "Your cart is empty",
+      "filters": {
+        "all": "All",
+        "sea salt spray": "Sea Salt Spray",
+        "pomade": "Pomade",
+        "clay": "Clay",
+        "powder": "Powder"
+      }
+    },
+    "ru": {
+      "catalog": "Наши товары",
+      "addToCart": "В корзину",
+      "cart": "Корзина",
+      "checkout": "Оформить",
+      "total": "Итого",
+      "emptyCart": "Ваша корзина пуста",
+      "filters": {
+        "all": "Все",
+        "sea salt spray": "Спрей с морской солью",
+        "pomade": "Помада",
+        "clay": "Глина",
+        "powder": "Пудра"
+      }
+    },
+    "uz": {
+      "catalog": "Mahsulotlarimiz",
+      "addToCart": "Savatchaga",
+      "cart": "Savatcha",
+      "checkout": "Buyurtma berish",
+      "total": "Jami",
+      "emptyCart": "Savatchangiz bo'sh",
+      "filters": {
+        "all": "Barchasi",
+        "sea salt spray": "Dengiz tuzi spreyi",
+        "pomade": "Pomada",
+        "clay": "Loy (Clay)",
+        "powder": "Kukun"
+      }
+    }
+  },
+  "products": [
+    {
+      "id": "1",
+      "name": "Oceanic Sea Salt Spray",
+      "type": "sea salt spray",
+      "price": 24.99,
+      "description": "Adds texture and volume for a relaxed, beachy look with a matte finish. Premium hold without the crunch.",
+      "imageUrl": "/images/spray.png",
+      "stock": 50
+    },
+    {
+      "id": "2",
+      "name": "Classic Matte Pomade",
+      "type": "pomade",
+      "price": 22.99,
+      "description": "Smooth application, firm hold, and a natural matte finish. Perfect for slick modern styles.",
+      "imageUrl": "/images/pomade.png",
+      "stock": 30
+    },
+    {
+      "id": "3",
+      "name": "Texturizing Styling Clay",
+      "type": "clay",
+      "price": 26.99,
+      "description": "High hold, zero shine. Adds thickness and structure to fine or medium hair types.",
+      "imageUrl": "/images/clay.png",
+      "stock": 25
+    },
+    {
+      "id": "4",
+      "name": "Volume Boost Powder",
+      "type": "powder",
+      "price": 19.99,
+      "description": "Instant root lift and texture. Weightless styling powder for gravity-defying hold.",
+      "imageUrl": "/images/powder.png",
+      "stock": 40
+    }
+  ]
+}

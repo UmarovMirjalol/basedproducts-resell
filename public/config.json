@@ -1,0 +1,86 @@
+{
+  "siteName": "Textura",
+  "telegramUrl": "https://t.me/flowcraft1",
+  "currency": "$",
+  "categories": [
+    "sprays",
+    "pomades",
+    "clays",
+    "powders",
+    "oils",
+    "bundles"
+  ],
+  "products": [
+    {
+      "id": "sea-salt-spray",
+      "price": 24,
+      "image": "/images/based.jpg",
+      "category": "sprays",
+      "badge": "bestSeller",
+      "featured": true
+    },
+    {
+      "id": "matte-pomade",
+      "price": 22,
+      "image": "https://images.unsplash.com/photo-1522335789203-aabd1fc54bc9?w=800&q=80&auto=format&fit=crop",
+      "category": "pomades",
+      "badge": null,
+      "featured": true
+    },
+    {
+      "id": "styling-clay",
+      "price": 26,
+      "image": "https://images.unsplash.com/photo-1556228578-8c89e6adf883?w=800&q=80&auto=format&fit=crop",
+      "category": "clays",
+      "badge": "newArrival",
+      "featured": false
+    },
+    {
+      "id": "texture-powder",
+      "price": 18,
+      "image": "https://images.unsplash.com/photo-1571781926291-c477ebfd024b?w=800&q=80&auto=format&fit=crop",
+      "category": "powders",
+      "badge": null,
+      "featured": true
+    },
+    {
+      "id": "hair-oil",
+      "price": 29,
+      "image": "https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?w=800&q=80&auto=format&fit=crop",
+      "category": "oils",
+      "badge": "newArrival",
+      "featured": false
+    },
+    {
+      "id": "starter-bundle",
+      "price": 59,
+      "image": "https://images.unsplash.com/photo-1556228720-195a672e8a03?w=800&q=80&auto=format&fit=crop",
+      "category": "bundles",
+      "badge": "save20",
+      "featured": false
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "name": "Alex M.",
+      "rating": 5
+    },
+    {
+      "id": "2",
+      "name": "Sam R.",
+      "rating": 5
+    },
+    {
+      "id": "3",
+      "name": "Omar B.",
+      "rating": 5
+    }
+  ],
+  "faqIds": [
+    1,
+    2,
+    3,
+    4
+  ]
+}
